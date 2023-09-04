@@ -25,15 +25,6 @@ Creer le .env avec le .env.example
 ```
 DB_DATABASE=todolist
 ```
-**Le nom de l'utilisateur avec lequel se connecter :**
-```
-DB_USERNAME=todolist
-```
-**Le mot de passe de l'utilisateur :**
-```
-DB_PASSWORD=todolist
-```
-
 
 ### Lancer le serveur PHP avec Laravel
 
